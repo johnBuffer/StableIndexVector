@@ -135,4 +135,4 @@ entities.remove_if([](const Entity& e) {
 
 ## License
 
-[Add your license here]
+MIT
