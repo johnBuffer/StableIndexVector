@@ -2,6 +2,7 @@
 #include <limits>
 #include <vector>
 #include <cassert>
+#include <cstdint>
 
 
 namespace siv
